@@ -118,7 +118,7 @@ Trades from MKT orders are always takers, as market orders never go on the order
 
 ## Implementations
 
-Module src (v0.2): /src/OrderBook.mo
+Module src: /src/OrderBook.mo
 
 **Example:**
 
