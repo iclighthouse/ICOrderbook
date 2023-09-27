@@ -19,7 +19,7 @@ import Trie "mo:base/Trie";
 import Deque "mo:base/Deque";
 import Buffer "mo:base/Buffer";
 import Blob "mo:base/Blob";
-import Binary "./lib/Binary";
+import Binary "mo:icl/Binary";
 
 module {
     public type Txid = Blob;
